@@ -67,6 +67,11 @@ li{
 button{
     background-color: #e53935;
     margin: 5px;
+    border: 0px 0px;
+    box-shadow: none;
+    border-radius: 20px;
+    border-color: #e53935;
+    
     color: white;
     font-weight: 600;
     padding: 7px;
