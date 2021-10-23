@@ -1,0 +1,54 @@
+body{
+    font-family: 'Scheherazade New', serif;
+}
+
+#navbar{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #e53935;
+    align-items: center;
+}
+
+ul{
+    display: inline-block;
+    list-style-type: none;
+    
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+    
+}
+
+#navbar a{
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}
+
+
+#github_image{
+    margin-top: 5px;
+}
+
+#github_image img{
+    height:25px;
+    width:25px;
+}
+
+
+.restau-imgs{
+    width: 45%;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#contacts{
+    padding: 15px;
+}
+.w3-section{
+    padding: 7px;
+}
+
+
