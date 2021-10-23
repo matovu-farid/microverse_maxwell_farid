@@ -43,6 +43,10 @@ li{
     margin: 20px;
     border-radius: 10px;
 }
+.phone-img{
+    width: 250px;
+    
+}
 
 #contacts{
     padding: 10px;
