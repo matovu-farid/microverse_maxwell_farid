@@ -1,14 +1,38 @@
 body{
     font-family: 'Scheherazade New', serif;
+    margin: 0px 0px;
 }
 
+@media only screen and (min-width: 800px){
+    #navbar{
+        width: 100vw;
+        position: fixed;
+        display: flex;
+        justify-content: center;
+        background-color: #35e5ce;
+        align-items: center;
+        top:0px;
+    
+    
+    }
+}
 #navbar{
+    width: 100vw;
+    position: fixed;
     display: flex;
     justify-content: flex-end;
     background-color: #e53935;
     align-items: center;
-}
+    top:0px;
 
+
+}
+#welcome-section{
+    margin-top: 104px;
+    display: absolute;
+    
+    height: 100VH;
+}
 ul{
     display: inline-block;
     list-style-type: none;
